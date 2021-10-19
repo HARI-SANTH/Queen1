@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "Queen",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -12,13 +12,13 @@
             "required": true
         },
         "SUDO": {
-            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 919876543210 (IN)",
+            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 918281363016 (IN)",
             "required": false
         },
         "HANDLERS": {
             "description": "enter handlers.",
             "required": true,
-            "value": "^[.]"
+            "value": "^[$]"
         },
         "SEND_READ": {
             "description": "send read receipt.",
@@ -132,7 +132,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "🥰,Queen👑 by Hari"
         }
     },
     "addons": [
